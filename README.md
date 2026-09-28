@@ -41,6 +41,7 @@ Confirm that the assistant actually invokes a CasaNest tool. Empty results are v
 The server is listed as **eu.casanest/catalogue** in the [official MCP Registry](https://registry.modelcontextprotocol.io/v0.1/servers/eu.casanest%2Fcatalogue/versions/latest). This registers the integration metadata; it does not install it automatically in every assistant.
 
 - [Tool schemas / server card](https://casanest.eu/.well-known/mcp/server-card.json)
+- [CasaNest connector on Glama](https://glama.ai/mcp/connectors/eu.casanest/catalogue)
 - [MCP Registry manifest](https://casanest.eu/mcp-server.json)
 - [OpenAPI 3.1](https://casanest.eu/api/public/v1/openapi.json)
 - [Optional llms.txt index](https://casanest.eu/llms.txt)
